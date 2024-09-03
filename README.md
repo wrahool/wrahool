@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Subhayan Mukerjee, an assistant professor at the National University of Singapore, specialising in computational communication.  I conduct research on digital media and audience behaviour using computational methods, and teach courses on programming, quantitative methods, and data visualisation.
+
 <!--
 **wrahool/wrahool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
